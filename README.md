@@ -31,4 +31,4 @@ Como Executar
 
 1. Clone este repositório para a sua máquina local:
 ```bash
-git clone 
+git clone https://github.com/lalima13/Banco.git
